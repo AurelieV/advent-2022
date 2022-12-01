@@ -1,0 +1,19 @@
+{
+  "name": "advent-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "plop": "plop"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ora": "^5.1.0"
+  },
+  "devDependencies": {
+    "plop": "^2.7.4",
+    "prettier": "^2.5.0"
+  }
+}
